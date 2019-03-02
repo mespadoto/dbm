@@ -1,0 +1,27 @@
+baseurl = "https://mespadoto.github.io/db/"
+title = "Decision Boundary Maps"
+author = "M. Espadoto, F. C. M. Rodrigues, A. C. Telea"
+paginate = 4
+theme = "arabica"
+publishDir = "docs"
+
+[params]
+    #description = "M. Espadoto, F. C. M. Rodrigues, A. C. Telea"
+    replaceGoogleFonts = "fonts.loli.net"
+    twitter = ""
+    facebook = ""
+
+#[[menu.main]]
+#name = "Fashion-MNIST, 2-class"
+#url = "/post/fashionmnist2"
+#weight = 1
+
+#[[menu.main]]
+#name = "Fashion-MNIST, 10-class"
+#url = "/post/fashionmnist10/"
+#weight = 2
+
+#[[menu.main]]
+#name = "Code (soon)"
+#url = "/"
+#weight = 3
