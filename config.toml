@@ -1,4 +1,4 @@
-#baseurl = "https://mespadoto.github.io/dbm/"
+baseurl = "https://mespadoto.github.io/dbm/"
 title = "Decision Boundary Maps"
 author = "M. Espadoto, F. C. M. Rodrigues, A. C. Telea"
 paginate = 4
