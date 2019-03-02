@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decision Boundary Maps</title>
-    <link>https://mespadoto.github.io/dbm/</link>
+    <link>/</link>
     <description>Recent content on Decision Boundary Maps</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 27 Sep 2018 22:15:05 -0300</lastBuildDate>
     
-	<atom:link href="https://mespadoto.github.io/dbm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Experiments - Image-based visualization of classifier decision boundaries</title>
-      <link>https://mespadoto.github.io/dbm/post/exp1/</link>
+      <link>/post/exp1/</link>
       <pubDate>Thu, 27 Sep 2018 22:15:05 -0300</pubDate>
       
-      <guid>https://mespadoto.github.io/dbm/post/exp1/</guid>
+      <guid>/post/exp1/</guid>
       <description>Soon</description>
     </item>
     
     <item>
       <title>Experiments - Visual Analytics of Multidimensional Projections for Constructing Classifier Decision Boundary Maps</title>
-      <link>https://mespadoto.github.io/dbm/post/exp2/</link>
+      <link>/post/exp2/</link>
       <pubDate>Thu, 27 Sep 2018 22:15:03 -0300</pubDate>
       
-      <guid>https://mespadoto.github.io/dbm/post/exp2/</guid>
+      <guid>/post/exp2/</guid>
       <description> Logistic Regression Classifier, 2-class subset k-NN Classifier, 2-class subset Random Forest Classifier, 2-class subset CNN, 2-class subset Logistic Regression Classifier, 10-class subset k-NN Classifier, 10-class subset Random Forest Classifier, 10-class subset CNN, 10-class subset Logistic Regression Classifier, 10-class subset - errors CNN, 10-class subset - errors </description>
     </item>
     

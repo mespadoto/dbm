@@ -1,4 +1,4 @@
-<img src="img/densemaps_10class_Sequential_home.png" width="1000"/>
+<img src="/img/densemaps_10class_Sequential_home.png" width="1000"/>
 
 This is the website for the Decision Boundary Map (DBM) technique. Here you can find high-resolution images for the experiments published in the related papers. As the research on the subject evolves, results of other experiments and different datasets will be published here, as well and the code for creating DBMs.
 
